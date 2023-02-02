@@ -9,7 +9,7 @@ public class string {
 		String fullName = "sonika";
 		
 		// create object of type string
-		String a = fullName.toUpperCase(); // CHINMAY
+		String a = fullName.toUpperCase(); 
 		System.out.println(a);
 		
 		// creating instance or object of human class
@@ -47,5 +47,5 @@ class Human {
 	public void walk() {
 		System.out.println("walking");
 	}
-	
+	int a=10;
 }
